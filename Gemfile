@@ -40,6 +40,8 @@ gem "carrierwave"
 gem "mini_magick"
 gem "font-awesome-rails"
 gem "aasm"
+gem "letter_opener", group: :development
+gem "roadie", "2.4.3"
  group :production do
    gem "pg"
    gem "rails_12factor"
