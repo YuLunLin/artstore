@@ -35,9 +35,10 @@ gem "devise"
 gem "bootstrap-sass"
 gem "simple_form"
 
-gem "carrierwave"
+
 
 gem "mini_magick"
+gem "carrierwave"
 gem "font-awesome-rails"
 gem "aasm"
 gem "letter_opener", group: :development
