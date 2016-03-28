@@ -43,6 +43,7 @@ gem "font-awesome-rails"
 gem "aasm"
 gem "letter_opener", group: :development
 gem "pay2go"
+gem "figaro"
 gem "roadie", "2.4.3"
  group :production do
    gem "pg"
